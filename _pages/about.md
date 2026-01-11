@@ -7,3 +7,6 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I’m **[Andrea Cardia]**.
+
+
